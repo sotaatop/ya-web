@@ -1,0 +1,33 @@
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        .box1 {
+            width: 50%;
+            height: auto;
+            border: 6px solid #FFCB0F;
+            padding: 10px;
+            margin: auto;
+            text-align: center;
+            border-radius: 16px
+        }
+        *{
+        font-family: verdana
+        }
+    </style>
+    
+    <title>Young Asians</title>
+</head>
+
+<body>
+    <header>
+        <h1 style="text-align: center">Online home of the <span style="color:#FFCB0F">Young Asians</span> community.</h1>
+    </header>
+        
+        <h2 class="box1">Coming <u>very</u> soon.<br>Stay tuned ;)</h2>
+        
+        <h2 style="text-align: center;">Check our deck out <a href="https://www.archiveofourown.org">here</a>!<h2>
+
+</body>
+
+</html>
